@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/rogerdribeiro/robo-youtuber-nodejs.git",
   "author": "Rogerd Ribeiro <rogerd.ribeiro@aluno.ufop.edu.br>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
