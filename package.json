@@ -1,0 +1,13 @@
+{
+  "name": "roboTuber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rogerdribeiro/robo-youtuber-nodejs.git",
+  "author": "Rogerd Ribeiro <rogerd.ribeiro@aluno.ufop.edu.br>",
+  "license": "MIT",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "readline-sync": "^1.4.9",
+    "sbd": "^1.0.15"
+  }
+}
